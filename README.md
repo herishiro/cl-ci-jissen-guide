@@ -1,3 +1,3 @@
 # cl-ci-jissen-guide
 
-labeler-test
+labeler-test2
