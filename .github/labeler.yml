@@ -1,0 +1,9 @@
+# ドキュメントが変更された場合に、"documentation" ラベルを追加
+documentation:
+  - "docs/**"
+  - "*.md"
+
+# GitHub Actionsに関連するファイルが変更された場合に、"ci" ラベルを追加
+ci:
+  - ".github/workflows/**"
+  - ".github/labeler.yml"
