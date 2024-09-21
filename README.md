@@ -1,3 +1,3 @@
 # cl-ci-jissen-guide
 
-てすと
+label-test
